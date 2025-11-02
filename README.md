@@ -114,11 +114,17 @@ The project successfully demonstrates how ServiceNow can be utilized beyond IT S
 👥 Team Information
 
 Role           Details
+
 Team ID        NM2025TMID02860
+
 Team Size      4 Members
+
 Team Leader    Jesika G
+
 Team Member 1  Renisha R
+
 Team Member 2  Akshaya S
+
 Team Member 3  Ajini W
 
 ---
